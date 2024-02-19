@@ -1,0 +1,78 @@
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    margin: auto;
+
+    
+}
+.icon{
+    background-color: black;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 4px;
+    color: white;
+    padding: 3px;
+}
+.icon1{
+    background-color: black;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 4px;
+    color: white;
+    padding: 3px;
+}
+.icon2{
+    background-color:black;
+    margin: auto;
+    align-items: center;
+    margin-bottom:4px;
+    color: white;
+    padding: 3px;
+}
+.logo{
+    color: black;
+    font-size: 20px;
+    font-weight: 600px;
+    
+}
+.container-fluid{
+    border: 2px solid black;
+
+}
+.mainbox{
+    padding-left: 500px;
+    background-image: url(./background.webp);
+    margin-top: 10px;
+    height: 80vh;
+    color: gray;
+}
+.container2{
+    display: flex;
+    width: 50%;
+    min-height: 50vh;
+
+}
+.img{
+    display: flex;
+    width: 06%;
+    height: 50vh;
+}
+.img2{
+    display: flex;
+    width: 60%;
+    height: 50vh;
+}
+.img3{
+    display: flex;
+    width: 60%;
+    height: 50vh;
+}
+.carousel{
+    border: 1px solid silver;
+    width: 70%;
+   
+    background-image: url(./degree.jpg);
+}
